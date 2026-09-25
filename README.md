@@ -1,4 +1,4 @@
-<img width="891" height="314" alt="Churn_Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/78039d27-fa55-498a-95a0-9ef9acf3bb16" />
+
 # Customer Churn Analytics — End-to-End Data Analyst Project
 
 ## 📌 Project Overview
@@ -149,4 +149,4 @@ The analysis helps identify customer groups with higher churn and quantify the a
 
 ### Customer Risk & Segmentation
 
-https://github.com/Simran-Pasha/Customer-Churn-Analytics-E2E/blob/main/Churn_Dashboard_Screenshot2.png
+<img width="891" height="314" alt="Churn_Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/78039d27-fa55-498a-95a0-9ef9acf3bb16" />
