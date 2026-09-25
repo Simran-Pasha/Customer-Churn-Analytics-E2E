@@ -148,4 +148,4 @@ The analysis helps identify customer groups with higher churn and quantify the a
 
 ### Customer Risk & Segmentation
 
-![Customer Risk & Segmentation](Churn_DashboardScreenshot2.png)
+Churn_Dashboard)Screenshot2.png
