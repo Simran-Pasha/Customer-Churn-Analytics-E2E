@@ -139,3 +139,13 @@ This project demonstrates an end-to-end analytics workflow:
 **Data → Cleaning → SQL → Business Analysis → DAX → Power BI → Business Insights**
 
 The analysis helps identify customer groups with higher churn and quantify the associated monthly revenue exposure.
+
+## 📈 Power BI Dashboard
+
+### Executive Overview
+
+![Executive Overview](Churn_Dashboard_Screenshot1.png)
+
+### Customer Risk & Segmentation
+
+![Customer Risk & Segmentation](Churn_DashboardScreenshot2.png)
